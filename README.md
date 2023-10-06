@@ -6,4 +6,4 @@
 ### 🠖 Conceito convertido para lógico(MER):
 ![Lógico_hosp](https://github.com/joseluiz03/BancoDeDados.Hospital/assets/116982553/8362438f-68ff-4806-91c2-596797279ea8)
 
-
+### emerson
